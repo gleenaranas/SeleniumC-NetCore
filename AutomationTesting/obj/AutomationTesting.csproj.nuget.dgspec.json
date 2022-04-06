@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AVVGP9PH1\\source\\repos\\AutomationTesting\\AutomationTesting\\AutomationTesting.csproj": {}
+    "C:\\Users\\AVVGP9PH1\\Documents\\GitHub\\SeleniumC#NetCore\\SeleniumC-NetCore\\AutomationTesting\\AutomationTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AVVGP9PH1\\source\\repos\\AutomationTesting\\AutomationTesting\\AutomationTesting.csproj": {
+    "C:\\Users\\AVVGP9PH1\\Documents\\GitHub\\SeleniumC#NetCore\\SeleniumC-NetCore\\AutomationTesting\\AutomationTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AVVGP9PH1\\source\\repos\\AutomationTesting\\AutomationTesting\\AutomationTesting.csproj",
+        "projectUniqueName": "C:\\Users\\AVVGP9PH1\\Documents\\GitHub\\SeleniumC#NetCore\\SeleniumC-NetCore\\AutomationTesting\\AutomationTesting.csproj",
         "projectName": "AutomationTesting",
-        "projectPath": "C:\\Users\\AVVGP9PH1\\source\\repos\\AutomationTesting\\AutomationTesting\\AutomationTesting.csproj",
+        "projectPath": "C:\\Users\\AVVGP9PH1\\Documents\\GitHub\\SeleniumC#NetCore\\SeleniumC-NetCore\\AutomationTesting\\AutomationTesting.csproj",
         "packagesPath": "C:\\Users\\AVVGP9PH1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AVVGP9PH1\\source\\repos\\AutomationTesting\\AutomationTesting\\obj\\",
+        "outputPath": "C:\\Users\\AVVGP9PH1\\Documents\\GitHub\\SeleniumC#NetCore\\SeleniumC-NetCore\\AutomationTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AVVGP9PH1\\AppData\\Roaming\\NuGet\\NuGet.Config",
