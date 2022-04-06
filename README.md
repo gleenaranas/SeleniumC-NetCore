@@ -1,0 +1,2 @@
+# SeleniumC-NetCore
+Automation Testing
